@@ -4,7 +4,7 @@ Source Code: [map.c](https://github.com/Bluejake3/Adjacency-Matrix-Graph-Travers
 
 ## table of contents
 * [Overview](https://github.com/Bluejake3/Adjacency-Matrix-Graph-Traversing#Overview)
-* [Function list](https://github.com/Bluejake3/Adjacency-Matrix-Graph-Traversing#Function-list)
+* [Function list](https://github.com/Bluejake3/Adjacency-Matrix-Graph-Traversing#Function_list)
 
 # Overview
 
