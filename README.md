@@ -28,5 +28,12 @@ This program is made for printing the adjacency matrix. this program will print 
 
 * `void dijkstra(int G[M][M],int n,int startnode, int endnode);`
 
+This program search the minimum distance between two nodes by using the Dijkstra Algorithm. This program compares the possible path and chose the nearest distance. The node will be visited only once, so this program have a matrix to check if the node is already visited or not.
+
+* `void maxdistance(int G[M][M], int startnode, int endnode);`
+
+
+
+
 
 
