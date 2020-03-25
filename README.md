@@ -32,6 +32,7 @@ This program search the minimum distance between two nodes by using the Dijkstra
 
 * `void maxdistance(int G[M][M], int startnode, int endnode);`
 
+This program will visit all node by always taking the maximum path. This program uses an array to check if the node is already visited or not. But, this program will visit the destination node last. We doing this by mark the destination node with `visited[n]` array where n is the destination node.
 
 
 
