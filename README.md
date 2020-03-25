@@ -1,8 +1,9 @@
 # Graph Traversing with Adjacency Matrix 
-** Adrian Danindra - 05111840000068 **
+**Adrian Danindra - 05111840000068**
 
 Source Code: [map.c](https://github.com/Bluejake3/Adjacency-Matrix-Graph-Traversing/blob/master/map.c)
-Pledge of Declaration: [
+
+Pledge of Declaration: [Scan_20200325.pdf](https://github.com/Bluejake3/Adjacency-Matrix-Graph-Traversing/blob/master/Scan_20200325.pdf)
 
 ## Table of Contents
 * [Overview](https://github.com/Bluejake3/Adjacency-Matrix-Graph-Traversing#Overview)
